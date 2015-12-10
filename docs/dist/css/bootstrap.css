@@ -5854,9 +5854,11 @@ h6,
 .main {
   display: flex;
   flex-direction: column;
+  min-height: 100%;
 }
 .main-area {
   display: flex;
+  flex: 1;
 }
 .sidebar {
   width: 250px;
