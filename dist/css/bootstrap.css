@@ -5870,7 +5870,14 @@ button.close {
 html,
 body {
   height: 100%;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #6d6e71;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
+/* TYPOGRAPHY */
 h1,
 h2,
 h3,
@@ -5880,6 +5887,53 @@ h6,
 .nav {
   font-family: Ubuntu, sans-serif;
   font-weight: 300;
+  color: #3c4246;
+}
+h1 {
+  font-size: 2.5em;
+  line-height: 1.1;
+}
+h2 {
+  font-size: 2em;
+  line-height: 1.125;
+}
+h3 {
+  font-size: 1.5em;
+  line-height: 1.167;
+}
+h4 {
+  font-size: 1.25em;
+  line-height: 1.5;
+}
+h5 {
+  font-size: 1em;
+  line-height: 1.5;
+}
+h6 {
+  font-size: .875em;
+  line-height: 1.71;
+}
+a {
+  color: #5c247b;
+}
+a:hover {
+  color: #5c247b;
+}
+.stronglink {
+  font-weight: 500;
+}
+a .glyphicon {
+  top: 0;
+  left: 5px;
+  font-size: 10px;
+}
+ol {
+  padding: 0;
+  list-style: none;
+}
+ul {
+  padding: 0;
+  list-style: none;
 }
 .main {
   display: -webkit-box;
