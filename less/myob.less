@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6, .nav {
 .side-nav {
   padding: 0;
   margin-top: 5px;
-  
+
   ul {
     list-style: none;
     padding: 0;
@@ -90,22 +90,31 @@ h1, h2, h3, h4, h5, h6, .nav {
 }
 
 .row {
-   > * {
+  > * {
     &:first-child {
-      .component {
+      > .component {
         @media (max-width: @screen-sm-max) {
           margin-top: 0;
         }
       }
     }
     &:last-child {
-      .component {
+      > .component {
         @media (max-width: @screen-sm-max) {
           margin-bottom: 0;
         }
       }
     }
-   }
+  }
+
+  > .col-sm-6 {
+    > .component {
+      @media (max-width: @screen-sm-max) and (min-width: @screen-xs-max) {
+        margin-top: 0;
+        margin-bottom: 0;
+      }
+    }
+  }
 
   .component {
     width: auto;
@@ -123,6 +132,8 @@ h1, h2, h3, h4, h5, h6, .nav {
   margin-top: 40px;
   margin-bottom: 40px;
 
+  &:extend(.container);
+
   > *:last-child {
     margin-bottom: 0;
   }
@@ -134,6 +145,10 @@ h1, h2, h3, h4, h5, h6, .nav {
   background-size: cover;
 
   .clearfix;
+}
+
+.column-changer {
+  &:extend(.component);
 }
 
 .tile {
@@ -187,9 +202,27 @@ h1, h2, h3, h4, h5, h6, .nav {
       border-top-color: #f9fafa;
     }
 
+    .bg-changer & {
+      background: none;
+      border: none;
+      border-radius: 0;
+
+      &:before,
+      &:after {
+        display: none;
+      }
+    }
+
     > * {
       margin: 0;
       border: none;
+    }
+
+    .quotemark {
+      font-family: Georgia,"Times New Roman",Times,serif;
+      font-size: 100px;
+      line-height: 50%;
+      color: #ccc;
     }
   }
   .testimonial_img {
@@ -197,6 +230,10 @@ h1, h2, h3, h4, h5, h6, .nav {
     border-radius: 50%;
     margin: 40px auto 20px;
     display: block;
+
+    .bg-changer & {
+      margin: 20px auto;
+    }
 
     > * {
       border-radius: 50%;
@@ -208,6 +245,25 @@ h1, h2, h3, h4, h5, h6, .nav {
 }
 
 .contact-strip {
+  .row {
+    > [class^="col-"] {
+      &:first-child {
+        > .contact-strip-child {
+          @media (max-width: @screen-sm-max) {
+            margin-top: 0;
+          }
+        }
+      }
+      &:last-child {
+        > .contact-strip-child {
+          @media (max-width: @screen-sm-max) {
+            margin-bottom: 0;
+          }
+        }
+      }
+    }
+  }
+
   .contact-strip-child {
     border: 1px solid #e5e5e5;
     border-radius: 3px;
