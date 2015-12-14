@@ -56,12 +56,88 @@ a:hover {
  ol {
   padding-left: 25px;
   }
-ul {   
+ul {
   padding-left: 20px;
   }
 
 /* COLOURS */
+@primary: #5c247b;
+@secondary: #6fb72b;
+@tertiary: #3c4246;
 
+@black: #000;
+@grey-extra-dark: #202528;
+@grey-dark: #3c4246;
+@grey: #6d6e71;
+@grey-light: #d0d0d0;
+@grey-lighter: #e5e5e5;
+@grey-extra-light: #f9fafa;
+@white: #fff;
+
+@accountright-yellow: #ffc300;
+@essentials-pink: #a4007d;
+@accountedge-blue: #65c4de;
+@retailmanager-latte: #7a6e67;
+@payroll-green: #6fb72b;
+@banklink-blue: #005296;
+@paydirect-orange: #ec6915;
+@kounta-blue: #026fa8;
+@exo-teal: #009699;
+@advanced-fluro: #c7d900;
+@payglobal-green: #589522;
+@ao-orange: #fd3600;
+@ae-dark-teal: #164b54;
+
+@colours:
+  'primary',
+  'secondary',
+  'tertiary',
+  'black',
+  'grey-extra-dark',
+  'grey-dark',
+  'grey',
+  'grey-light',
+  'grey-lighter',
+  'grey-extra-light',
+  'white',
+  'accountright-yellow',
+  'essentials-pink',
+  'accountedge-blue',
+  'retailmanager-latte',
+  'payroll-green',
+  'banklink-blue',
+  'paydirect-orange',
+  'kounta-blue',
+  'exo-teal',
+  'advanced-fluro',
+  'payglobal-green',
+  'ao-orange',
+  'ae-dark-teal';
+
+@colours-length: length(@colours);
+
+.generate-colours(@colours-length);
+
+.generate-colours(@colours-length, @i: 1) when (@i =< @colours-length) {
+  @colour: e(extract(@colours, @i));
+  .@{colour} {
+    color: @@colour !important;
+  }
+
+  .bg-@{colour} {
+    background-color: @@colour !important;
+  }
+
+  .generate-colours(@colours-length, (@i + 1));
+}
+
+.colour-box {
+  height: 80px;
+  margin-bottom: 10px;
+  border-radius: 3px;
+}
+
+/* MAIN */
 .main {
   display: flex;
   flex-direction: column;
@@ -203,6 +279,46 @@ ul {
 
 .column-changer {
   &:extend(.component);
+}
+
+.alert {
+  a {
+    font-weight: bold;
+    color: inherit;
+  }
+
+  .close {
+    color: inherit;
+    opacity: initial;
+
+    &:hover {
+      opacity: .5;
+    }
+  }
+
+  &.alert-success {
+    background-color: #f2f9ec;
+    color: #5fa52c;
+    border-color: #5fa52c;
+  }
+
+  &.alert-info {
+    background-color: #f0fafe;
+    color: #3e8acd;
+    border-color: #3e8acd;
+  }
+
+  &.alert-warning {
+    background-color: #fff8e7;
+    color: #f2ae44;
+    border-color: #f2ae44;
+  }
+
+  &.alert-danger {
+    background-color: #fef0f2;
+    color: #ab1678;
+    border-color: #ab1678;
+  }
 }
 
 .tile {
