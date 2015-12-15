@@ -6155,9 +6155,9 @@ ul {
   line-height: 1.5;
   white-space: normal;
   border-radius: 4px;
-  -webkit-transition: background-color 0.2s ease;
-  -o-transition: background-color 0.2s ease;
-  transition: background-color 0.2s ease;
+  -webkit-transition: 0.2s ease;
+  -o-transition: 0.2s ease;
+  transition: 0.2s ease;
 }
 .btn:focus {
   outline: none;
