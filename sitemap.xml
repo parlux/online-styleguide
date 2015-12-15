@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://getbootstrap.com/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/accordian-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/address-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/alerts-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/background-changer-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/blog-comments-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/blog-feed-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/blog-header-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/blog-listing-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/blog-news-listing-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/blog-popular-articles-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/blog-related-posts-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/blog-search-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/blog-search-results-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/brand-logos-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/breadcrumbs-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/foundations/buttons/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/captcha-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/checkbox-group-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/foundations/colours/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/column-control-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/comparison-table-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/cta-strip-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/cta-tiles-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/dropdown-list-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/example/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/file-upload-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/floating-cta-strip-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/footer-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/form-responsys-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/form-standard-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/google-maps-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/foundations/grid/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/header-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/hero-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/hidden-field-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/foundations/icons/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/image-button-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/image-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/image-upload-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/learning-centre-search-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/lightbox-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/link-field-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/list-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/logo-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/partner-search-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/pricing-boxes-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/proof-points-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/radio-group-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/site-search-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/site-search-results-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/social-sharing-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/sub-navigation-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/submit-button-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/tables-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/tags-field-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/testimonial-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/testimonial-slider-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/text-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/text-field-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/text-image-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/tile-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/title-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/top-navigation-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/twitter-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/foundations/typography/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/upgrade-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://getbootstrap.com/components/video-component/</loc>
+    <lastmod>2015-12-15T15:09:39+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+</urlset>
