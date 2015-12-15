@@ -1,3 +1,5 @@
+baseurl:          /online-styleguide
+
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
