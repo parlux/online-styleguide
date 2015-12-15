@@ -5929,6 +5929,13 @@ body {
   width: 100%;
 }
 /* TYPOGRAPHY */
+.ubuntu {
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  font-smooth: always;
+  font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
+}
 h1,
 h2,
 h3,
@@ -5936,7 +5943,11 @@ h4,
 h5,
 h6,
 .nav {
-  font-family: Ubuntu, sans-serif;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  font-smooth: always;
+  font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
   font-weight: 300;
   color: #3C4246;
 }
@@ -6051,88 +6062,150 @@ ul {
 .bg-white {
   background-color: #fff !important;
 }
-.accountright-yellow {
+.accountright {
   color: #ffc300 !important;
 }
-.bg-accountright-yellow {
+.bg-accountright {
   background-color: #ffc300 !important;
 }
-.essentials-pink {
+.essentials {
   color: #a4007d !important;
 }
-.bg-essentials-pink {
+.bg-essentials {
   background-color: #a4007d !important;
 }
-.accountedge-blue {
+.accountedge {
   color: #65c4de !important;
 }
-.bg-accountedge-blue {
+.bg-accountedge {
   background-color: #65c4de !important;
 }
-.retailmanager-latte {
+.retailmanager {
   color: #7a6e67 !important;
 }
-.bg-retailmanager-latte {
+.bg-retailmanager {
   background-color: #7a6e67 !important;
 }
-.payroll-green {
+.payroll {
   color: #6fb72b !important;
 }
-.bg-payroll-green {
+.bg-payroll {
   background-color: #6fb72b !important;
 }
-.banklink-blue {
+.banklink {
   color: #005296 !important;
 }
-.bg-banklink-blue {
+.bg-banklink {
   background-color: #005296 !important;
 }
-.paydirect-orange {
+.paydirect {
   color: #ec6915 !important;
 }
-.bg-paydirect-orange {
+.bg-paydirect {
   background-color: #ec6915 !important;
 }
-.kounta-blue {
+.kounta {
   color: #026fa8 !important;
 }
-.bg-kounta-blue {
+.bg-kounta {
   background-color: #026fa8 !important;
 }
-.exo-teal {
+.exo {
   color: #009699 !important;
 }
-.bg-exo-teal {
+.bg-exo {
   background-color: #009699 !important;
 }
-.advanced-fluro {
+.advanced {
   color: #c7d900 !important;
 }
-.bg-advanced-fluro {
+.bg-advanced {
   background-color: #c7d900 !important;
 }
-.payglobal-green {
+.payglobal {
   color: #589522 !important;
 }
-.bg-payglobal-green {
+.bg-payglobal {
   background-color: #589522 !important;
 }
-.ao-orange {
+.ao {
   color: #fd3600 !important;
 }
-.bg-ao-orange {
+.bg-ao {
   background-color: #fd3600 !important;
 }
-.ae-dark-teal {
+.ae {
   color: #164b54 !important;
 }
-.bg-ae-dark-teal {
+.bg-ae {
   background-color: #164b54 !important;
 }
 .colour-box {
   height: 80px;
   margin-bottom: 10px;
-  border-radius: 3px;
+  border-radius: 4px;
+}
+.btn {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  font-smooth: always;
+  font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
+  vertical-align: top;
+  font-weight: 400;
+  line-height: 1.5;
+  white-space: normal;
+  border-radius: 4px;
+  -webkit-transition: background-color 0.2s ease;
+  -o-transition: background-color 0.2s ease;
+  transition: background-color 0.2s ease;
+}
+.btn:focus {
+  outline: none;
+  text-decoration: none;
+}
+.btn.btn-lg {
+  padding: 10px 30px;
+  font-size: 16px;
+}
+.btn.btn-md {
+  padding: 10px 30px;
+  font-size: 14px;
+}
+.btn.btn-sm {
+  padding: 5px 20px;
+  font-size: 14px;
+}
+.btn.btn-primary {
+  background-color: #6fb72b;
+  border: 1px solid #6fb72b;
+  color: #fff;
+}
+.btn.btn-primary:hover {
+  background-color: #589222;
+}
+.btn.btn-secondary {
+  background-color: #6d6e71;
+  border: 1px solid #6d6e71;
+  color: #fff;
+}
+.btn.btn-secondary:hover {
+  background-color: #56575a;
+}
+.btn.btn-tertiary {
+  background-color: #fff;
+  border: 1px solid #5c247b;
+  color: #5c247b;
+}
+.btn.btn-tertiary:hover {
+  background-color: #5c247b;
+  color: #fff;
+}
+.btn.btn-ghost {
+  border: 1px solid #9ea1a3;
+  color: #fff;
+}
+.btn.btn-ghost:hover {
+  border-color: #fff;
 }
 /* COLUMNS */
 @media (max-width: 991px) {
@@ -6228,7 +6301,7 @@ ul {
 }
 .tile {
   border: 1px solid #e5e5e5;
-  border-radius: 3px;
+  border-radius: 4px;
   padding: 0;
 }
 .tile .tile_head {
@@ -6242,13 +6315,13 @@ ul {
 }
 .tile .tile_body {
   padding: 20px;
-  border-radius: 0 0 3px 3px;
+  border-radius: 0 0 4px 4px;
   background: #fff;
 }
 .testimonial .testimonial_quote {
   background: #f9fafa;
   border: 1px solid #e5e5e5;
-  border-radius: 5px;
+  border-radius: 4px;
   text-align: center;
   position: relative;
 }
@@ -6317,7 +6390,7 @@ ul {
 }
 .contact-strip .contact-strip-child {
   border: 1px solid #e5e5e5;
-  border-radius: 3px;
+  border-radius: 4px;
   background: #fff;
   padding: 20px;
 }
