@@ -226,6 +226,13 @@ ul {
   height: 80px;
   margin-bottom: 10px;
   border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  > * {
+    .ubuntu();
+  }
 }
 
 .btn {
@@ -405,6 +412,11 @@ ul {
   border: 1px solid #e5e5e5;
   border-radius: 4px;
   padding: 0;
+  display: block;
+
+  &.tile-link {
+    text-align: center;
+  }
 
   .tile_head {
     padding: 20px;
